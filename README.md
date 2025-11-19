@@ -33,6 +33,19 @@
 * Monte Carlo Simulation of Eye's Mechanical Resonance Frequency</br >
 * Estimated Mechanical Resonance Frequency of the Adult Human Pituitary Gland</br ></br ></br >
 
+*  https://colab.research.google.com/github/fangq/mcx/blob/master/mcxlab/tutorials/mcxlab_getting_started.ipynb</br >
+* Monte Carlo Photon Simulation</br >
+* Mcxlab simulation</br >
+* Histogram of Partial Paths</br >
+* Plot detected photon existing positions</br >
+* Padding volume by zeros to save diffuse reflectance</br >
+* Build Jacobians</br >
+* Obtain frequency domain Jacobians</br >
+* Series of shape constructs</br >
+* Photon Trajectories (Isotropic, Cone Beam, Disk Beam, Gaussian/angular Gaussian Beam, uniform line source, directed line sourceuniform rectangular/quadrilateral area source, </br ></br >
+
+
+
 ## Magnetic Material Simulation (MuMax3)</br >
 * https://colab.research.google.com/github/OJB-Quantum/MuMax3-How-To/blob/main/Python%20Code_MuMax3%20Data%20Plots/Dy_and_Tb_Prediction_of_Hysteresis_at_Low_Temp.ipynb</br >
 * Tb Hysteresis at 200K, 100K, 0.05 K (50nm cube)</br >
