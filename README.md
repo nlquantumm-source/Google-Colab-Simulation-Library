@@ -1,8 +1,8 @@
 # Google-Colab-Simulation-Library</br >
-* This is a Google Colab simulation library focused on quantum computing.</br ></br >
-* Intense simulation requires high-quality GPU and Laptop but hardly any beginners obtain any of those.</br ></br >
-* Google Colab excels at solving this problem via able to freely use CPU, A100 GPU, L4 GPU T4 GPU, v6e-1 TPU, and v5e-1 TPU for students.</br ></br >
-* By bringing intense-simulation software to your Google Colab, you can run any simulation on any computers.</br ></br ></br >
+* This is a Google Colab simulation library focused on quantum computing.</br ><
+* Intense simulation requires high-quality GPU and Laptop but hardly any beginners obtain any of those.</br >
+* Google Colab excels at solving this problem via able to freely use CPU, A100 GPU, L4 GPU T4 GPU, v6e-1 TPU, and v5e-1 TPU for students.</br >
+* By bringing intense-simulation software to your Google Colab, you can run any simulation on any computers.</br ></br >
 
 # Simulation Libraries</br >
 * Generating simulation on your Google Colab needs fine-tune on your python code in order to get what you want.</br >
