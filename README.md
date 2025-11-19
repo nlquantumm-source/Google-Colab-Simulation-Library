@@ -7,7 +7,7 @@
 # Simulation Libraries</br >
 * Generating simulation on your Google Colab needs fine-tune on your python code in order to get what you want.</br >
 * Once you get a satisfied results, you'll be able to fine-tune it via using AI tools.</br >
-* Here's a various workflows that researchers at Quantum Field use via Google Colab.</br ></br ></br >
+* Here's a various workflows that researchers at Quantum Field use via Google Colab.</br ></br >
 
 ### Monte Carlo Simulation (CUDA Python/CuPy)</br >
 **https://github.com/OJB-Quantum/Monte-Carlo-Sim/blob/main/CUDA%E2%80%91Accelerated_2_D_Heat_Eq_with_Adjacency_Plus.ipynb**</br >
