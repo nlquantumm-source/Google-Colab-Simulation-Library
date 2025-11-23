@@ -18,7 +18,7 @@
 **link: https://github.com/OJB-Quantum/Monte-Carlo-Sim/blob/main/Egg_White_Resist_E_Beam_Penetration_Monte_Carlo.ipynb**</br >
 * Water-Based Photo Lithography and Electron-Beam Lithography Using Egg White as a Resist via Monte Carlo</br >
 * Adjusted Plot Parameters for Electron Paths</br >
-* Monte Carlo for 100 keV in 250nm Resist with X-axis Adjusted</br >
+* Monte Carlo for 100 keV in 250nm Resist with X-axis Adjusted</br ></br >
 
 **link: https://colab.research.google.com/github/OJB-Quantum/Monte-Carlo-Sim/blob/main/Egg_White_Resist_E_Beam_Penetration_Monte_Carlo.ipynb**</br >
 * Chip Layout Design Electric Field Potential</br ></br >
@@ -104,10 +104,10 @@
 **link: https://github.com/OJB-Quantum/Generative-Layout-Notebooks/blob/main/Import_DXF_for_OASIS_Conversion_Using_GDSTK_SQUID.ipynb**</br >
 * DXF for OASIS Conversion using GDSTK SQUID</br ></br >
 
-**link: https://github.com/OJB-Quantum/Notebooks-for-Ideas/blob/main/4_Micron_Josphson_Junction_with_GDSTK.ipynb**<br >
+**link: https://github.com/OJB-Quantum/Notebooks-for-Ideas/blob/main/4_Micron_Josphson_Junction_with_GDSTK.ipynb**</br >
 * Micron Josphson Junction with GDSTK</br ></br >
 
-**link: https://github.com/OJB-Quantum/Notebooks-for-Ideas/blob/main/Eigenmode_Analysis_GDSTK_Fractals.ipynb**</br />
+**link: https://github.com/OJB-Quantum/Notebooks-for-Ideas/blob/main/Eigenmode_Analysis_GDSTK_Fractals.ipynb**</br >
 * Eigenmode Analysis GDSTK Fractals</br ></br >
 
 ## 3D Modeling (Matplot)</br >
