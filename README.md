@@ -42,7 +42,7 @@
 * Build Jacobians</br >
 * Obtain frequency domain Jacobians</br >
 * Series of shape constructs</br >
-* Photon Trajectories (Isotropic, Cone Beam, Disk Beam, Gaussian/angular Gaussian Beam, uniform line source, directed line sourceuniform rectangular/quadrilateral area source, </br ></br ></br >
+* Photon Trajectories (Isotropic, Cone Beam, Disk Beam, Gaussian/angular Gaussian Beam, uniform line source, directed line sourceuniform rectangular/quadrilateral area source.</br ></br ></br >
 
 
 
